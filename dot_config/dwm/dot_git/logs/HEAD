@@ -1,0 +1,90 @@
+0000000000000000000000000000000000000000 1c895fd0a51edbedbe714e77cd184a54738c4e36 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667442970 +0100	commit (initial): v6.4 init
+1c895fd0a51edbedbe714e77cd184a54738c4e36 1c895fd0a51edbedbe714e77cd184a54738c4e36 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667443413 +0100	checkout: moving from master to develop
+1c895fd0a51edbedbe714e77cd184a54738c4e36 bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667444118 +0100	commit: Changed the default key bindings
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667444280 +0100	checkout: moving from develop to running-config
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667444303 +0100	checkout: moving from running-config to develop
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667444330 +0100	checkout: moving from develop to dwm-restartsig
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445372 +0100	commit: Added dwm-restartsig patch
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445385 +0100	checkout: moving from dwm-restartsig to develop
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445388 +0100	merge dwm-restartsig: Fast-forward
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 bc56ad2688c943cc4087687ed3e69c9a98a78a9c Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445405 +0100	checkout: moving from develop to running-config
+bc56ad2688c943cc4087687ed3e69c9a98a78a9c c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445408 +0100	merge develop: Fast-forward
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667445430 +0100	checkout: moving from running-config to develop
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446320 +0100	checkout: moving from develop to patch-pertag
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446490 +0100	commit: Patched dwm-pertag
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446499 +0100	checkout: moving from patch-pertag to develop
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446503 +0100	merge patch-pertag: Fast-forward
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446505 +0100	checkout: moving from develop to running-config
+c7b066d81ff4b7a7e87a707d74f0e8cc4b646da4 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446508 +0100	merge develop: Fast-forward
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446525 +0100	checkout: moving from running-config to develop
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667446686 +0100	checkout: moving from develop to patch-noborder
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447272 +0100	commit: Patched: dwm-noborder
+6e3c0d85fbaeae83551d5232066ed65b7717408b 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447283 +0100	checkout: moving from patch-noborder to develop
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447290 +0100	merge patch-noborder: Fast-forward
+6e3c0d85fbaeae83551d5232066ed65b7717408b 1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447295 +0100	checkout: moving from develop to running-config
+1eaaca42f906aec6a66b5f5663a6f888ef2d5f76 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447297 +0100	merge develop: Fast-forward
+6e3c0d85fbaeae83551d5232066ed65b7717408b 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447310 +0100	checkout: moving from running-config to develop
+6e3c0d85fbaeae83551d5232066ed65b7717408b 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667447519 +0100	reset: moving to HEAD
+6e3c0d85fbaeae83551d5232066ed65b7717408b 1c895fd0a51edbedbe714e77cd184a54738c4e36 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667448746 +0100	checkout: moving from develop to master
+1c895fd0a51edbedbe714e77cd184a54738c4e36 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667448910 +0100	checkout: moving from master to develop
+6e3c0d85fbaeae83551d5232066ed65b7717408b 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452080 +0100	checkout: moving from develop to patch-fullgaps
+6e3c0d85fbaeae83551d5232066ed65b7717408b 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452101 +0100	checkout: moving from patch-fullgaps to develop
+6e3c0d85fbaeae83551d5232066ed65b7717408b 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452107 +0100	checkout: moving from develop to patch-fullgaps-toggle
+6e3c0d85fbaeae83551d5232066ed65b7717408b ab90c0e56e0a2b1005b1f346dcb17125cf9ca9eb Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452231 +0100	commit: downloaded diff file
+ab90c0e56e0a2b1005b1f346dcb17125cf9ca9eb 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452269 +0100	checkout: moving from patch-fullgaps-toggle to patch-fullgaps
+6e3c0d85fbaeae83551d5232066ed65b7717408b bbd8d8bdf6ba5070cdf5c1e71129b35177856d86 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452965 +0100	commit: Patched: fullgaps
+bbd8d8bdf6ba5070cdf5c1e71129b35177856d86 ab90c0e56e0a2b1005b1f346dcb17125cf9ca9eb Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667452980 +0100	checkout: moving from patch-fullgaps to patch-fullgaps-toggle
+ab90c0e56e0a2b1005b1f346dcb17125cf9ca9eb 44818e71d37ae71bfb40db32437523c98fe2e236 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453840 +0100	commit: Patched: fullgaps-toggle
+44818e71d37ae71bfb40db32437523c98fe2e236 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453853 +0100	checkout: moving from patch-fullgaps-toggle to develop
+6e3c0d85fbaeae83551d5232066ed65b7717408b 44818e71d37ae71bfb40db32437523c98fe2e236 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453864 +0100	merge patch-fullgaps-toggle: Fast-forward
+44818e71d37ae71bfb40db32437523c98fe2e236 6e3c0d85fbaeae83551d5232066ed65b7717408b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453877 +0100	checkout: moving from develop to running-config
+6e3c0d85fbaeae83551d5232066ed65b7717408b 44818e71d37ae71bfb40db32437523c98fe2e236 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453879 +0100	merge develop: Fast-forward
+44818e71d37ae71bfb40db32437523c98fe2e236 44818e71d37ae71bfb40db32437523c98fe2e236 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667453891 +0100	checkout: moving from running-config to develop
+44818e71d37ae71bfb40db32437523c98fe2e236 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667458184 +0100	commit: Changed font
+24472379f0d7ebe0261ef264ad8f606bbfed497b 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667458202 +0100	checkout: moving from develop to patch-statuscmd
+24472379f0d7ebe0261ef264ad8f606bbfed497b bbd1a622182a0911e8c806a8614a92424b61e9ce Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667459327 +0100	commit: Patched?: statuscmd
+bbd1a622182a0911e8c806a8614a92424b61e9ce 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667513367 +0100	checkout: moving from patch-statuscmd to develop
+24472379f0d7ebe0261ef264ad8f606bbfed497b bbd1a622182a0911e8c806a8614a92424b61e9ce Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667513376 +0100	checkout: moving from develop to patch-statuscmd
+bbd1a622182a0911e8c806a8614a92424b61e9ce 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667513384 +0100	checkout: moving from patch-statuscmd to develop
+24472379f0d7ebe0261ef264ad8f606bbfed497b 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667513899 +0100	checkout: moving from develop to patch-movestack
+24472379f0d7ebe0261ef264ad8f606bbfed497b e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515163 +0100	commit: Patched: movestack
+e8e685bafda7e4e9e3aae100123fea303dc46b99 24472379f0d7ebe0261ef264ad8f606bbfed497b Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515172 +0100	checkout: moving from patch-movestack to develop
+24472379f0d7ebe0261ef264ad8f606bbfed497b e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515178 +0100	merge patch-movestack: Fast-forward
+e8e685bafda7e4e9e3aae100123fea303dc46b99 44818e71d37ae71bfb40db32437523c98fe2e236 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515185 +0100	checkout: moving from develop to running-config
+44818e71d37ae71bfb40db32437523c98fe2e236 e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515189 +0100	merge develop: Fast-forward
+e8e685bafda7e4e9e3aae100123fea303dc46b99 e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515194 +0100	checkout: moving from running-config to develop
+e8e685bafda7e4e9e3aae100123fea303dc46b99 e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667515233 +0100	checkout: moving from develop to patch-fixborders
+e8e685bafda7e4e9e3aae100123fea303dc46b99 c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516789 +0100	commit: Patched: fixborders
+c3cc812e3e6aeade94aac1761acba72a265f35dd e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516796 +0100	checkout: moving from patch-fixborders to develop
+e8e685bafda7e4e9e3aae100123fea303dc46b99 c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516800 +0100	merge patch-fixborders: Fast-forward
+c3cc812e3e6aeade94aac1761acba72a265f35dd e8e685bafda7e4e9e3aae100123fea303dc46b99 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516804 +0100	checkout: moving from develop to running-config
+e8e685bafda7e4e9e3aae100123fea303dc46b99 c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516807 +0100	merge develop: Fast-forward
+c3cc812e3e6aeade94aac1761acba72a265f35dd c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516809 +0100	checkout: moving from running-config to develop
+c3cc812e3e6aeade94aac1761acba72a265f35dd c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516820 +0100	checkout: moving from develop to running-config
+c3cc812e3e6aeade94aac1761acba72a265f35dd c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516872 +0100	checkout: moving from running-config to develop
+c3cc812e3e6aeade94aac1761acba72a265f35dd c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667516890 +0100	checkout: moving from develop to patch-focusmaster-return
+c3cc812e3e6aeade94aac1761acba72a265f35dd c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517896 +0100	commit: Patched: focusmaster-return
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517899 +0100	checkout: moving from patch-focusmaster-return to develop
+c3cc812e3e6aeade94aac1761acba72a265f35dd c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517903 +0100	merge patch-focusmaster-return: Fast-forward
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c3cc812e3e6aeade94aac1761acba72a265f35dd Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517906 +0100	checkout: moving from develop to running-config
+c3cc812e3e6aeade94aac1761acba72a265f35dd c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517908 +0100	merge develop: Fast-forward
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667517942 +0100	checkout: moving from running-config to develop
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667520847 +0100	checkout: moving from develop to running-config
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667520865 +0100	checkout: moving from running-config to develop
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667528799 +0100	checkout: moving from develop to fix-focus-master
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667529696 +0100	reset: moving to HEAD
+c5ca22623b266c73c57ceba051381c8b4fa145b5 1c895fd0a51edbedbe714e77cd184a54738c4e36 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667529706 +0100	checkout: moving from fix-focus-master to master
+1c895fd0a51edbedbe714e77cd184a54738c4e36 1c895fd0a51edbedbe714e77cd184a54738c4e36 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667529723 +0100	checkout: moving from master to master-test
+1c895fd0a51edbedbe714e77cd184a54738c4e36 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667529824 +0100	checkout: moving from master-test to develop
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667529829 +0100	checkout: moving from develop to running-config
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530133 +0100	checkout: moving from running-config to fix-focus-master
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530273 +0100	checkout: moving from fix-focus-master to develop
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530497 +0100	checkout: moving from develop to running-config
+c5ca22623b266c73c57ceba051381c8b4fa145b5 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530505 +0100	checkout: moving from running-config to develop
+c5ca22623b266c73c57ceba051381c8b4fa145b5 63fcf212512c974c7e45ac3778164753939ac655 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530522 +0100	commit: Changed the default gap settings
+63fcf212512c974c7e45ac3778164753939ac655 c5ca22623b266c73c57ceba051381c8b4fa145b5 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530526 +0100	checkout: moving from develop to running-config
+c5ca22623b266c73c57ceba051381c8b4fa145b5 63fcf212512c974c7e45ac3778164753939ac655 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530528 +0100	merge develop: Fast-forward
+63fcf212512c974c7e45ac3778164753939ac655 63fcf212512c974c7e45ac3778164753939ac655 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667530665 +0100	checkout: moving from running-config to develop
+63fcf212512c974c7e45ac3778164753939ac655 63fcf212512c974c7e45ac3778164753939ac655 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1667531183 +0100	checkout: moving from develop to fix-master-focus
+63fcf212512c974c7e45ac3778164753939ac655 63fcf212512c974c7e45ac3778164753939ac655 Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1668168821 +0100	checkout: moving from fix-master-focus to develop
+63fcf212512c974c7e45ac3778164753939ac655 fb204aef10207188486d0d9da6c9d84f02e3787e Cyprian Zdebski <cyprian.zdebski@protonmail.com> 1668168863 +0100	commit: Modified something with X server

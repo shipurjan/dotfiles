@@ -1,0 +1,64 @@
+{
+	"options": {
+		"icon": "images/logo/icon.png",
+		"show": false,
+		"width": 456,
+		"height": 845,
+		"frame": true,
+		"autoHideMenuBar": true,
+		"webPreferences": {
+			"preload": "/usr/lib/japreader/resources/app/src/boxes/options/script.js",
+			"nodeIntegration": true
+		},
+		"isMaximized": false,
+		"x": 0,
+		"y": 18
+	},
+	"reader": {
+		"icon": "images/logo/icon.png",
+		"width": 1072,
+		"height": 841,
+		"frame": true,
+		"autoHideMenuBar": true,
+		"webPreferences": {
+			"preload": "/usr/lib/japreader/resources/app/src/boxes/reader/script.js",
+			"nodeIntegration": true
+		},
+		"isMaximized": false,
+		"x": 462,
+		"y": 21
+	},
+	"translation": {
+		"icon": "images/logo/icon.png",
+		"width": 872,
+		"height": 114,
+		"frame": false,
+		"minimizable": false,
+		"maximizable": false,
+		"transparent": true,
+		"autoHideMenuBar": true,
+		"webPreferences": {
+			"contextIsolation": true,
+			"preload": "/usr/lib/japreader/resources/app/src/boxes/translation/script.js",
+			"nodeIntegration": true
+		},
+		"isMaximized": false,
+		"x": 662,
+		"y": 748
+	},
+	"dict": {
+		"icon": "images/logo/icon.png",
+		"show": false,
+		"width": 1072,
+		"height": 418,
+		"frame": true,
+		"autoHideMenuBar": true,
+		"webPreferences": {
+			"preload": "/usr/lib/japreader/resources/app/src/boxes/dict/script.js",
+			"nodeIntegration": true
+		},
+		"isMaximized": false,
+		"x": 460,
+		"y": 19
+	}
+}

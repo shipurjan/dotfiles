@@ -1,0 +1,17 @@
+{
+	"options": {
+		"darkMode": true,
+		"useDeepL": true,
+		"deepLDual": true,
+		"fadeText": true,
+		"translationTransparent": false,
+		"translationFontSize": 17,
+		"useReader": true,
+		"addFurigana": true,
+		"tvMode": false,
+		"showGoal": false,
+		"dailyGoal": 30,
+		"readerFontSize": 32,
+		"dictFontSize": 18
+	}
+}

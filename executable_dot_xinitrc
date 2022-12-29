@@ -1,0 +1,16 @@
+flameshot &                                 # screenshot manager
+sxhkd &                                     # hotkeys
+redshift &                                  # blue light filter
+dunst &                                     # notification 'deamon'
+xcompmgr &                                  # transparency 'deamon'
+unclutter &                                 # disappear cursor after inactivity
+setxkbmap -layout pl                        # polish characters
+[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap   # key remapping
+feh --no-fehbg --bg-scale \
+'/home/cyprian/wallpapers/wallpaper.png'   # wallpaper
+xset r rate 280 40                          # keyboard press rate
+xrdb -merge ~/.Xresources                   # DPI settings etc
+dwmblocks &                                 # a status bar for the window manager
+exec dwm > ~/.dwm.log                       # window manager
+sleep 1 && megasync &
+sleep 4 && megasync &
